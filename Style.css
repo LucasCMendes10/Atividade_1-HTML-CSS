@@ -1,0 +1,27 @@
+.div_A {
+    background-color: #881879;
+    width: 200px;
+    height: 200px;
+}
+.div_B {
+    background-color: #23146b;
+    width: 100px;
+    height: 100px;
+}
+.p_C {
+    color: black;
+    background-color: #592a92;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+.div_D {
+    width: 13vw;
+    height: 13vh;
+    background-color: rgb(43, 13, 177);
+}
+.div_E {
+    width: 13vw;
+    height: 40%;
+    background-color: rgb(181, 12, 12);
+}
